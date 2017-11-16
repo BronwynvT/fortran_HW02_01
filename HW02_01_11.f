@@ -31,6 +31,8 @@
  120  format(/,
      .       '--------------------------------------------------',/,
      .       'TABLE OF ERROR FUNCTION (ERF) AND FIRST DERIVATIVE',/,
+
+     .       '          and some other words                    ',/,
      .       '--------------------------------------------------',/,
      .       '| Argument  |    ERF   | d(ERF)/dx  |')
       write(*,140)
