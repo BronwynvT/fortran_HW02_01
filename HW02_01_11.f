@@ -6,7 +6,7 @@
 
 
       integer*4 max_arg   ! Maximum number of arguments
-      parameter ( max_arg = 101)
+      parameter ( max_arg = 90)
 
 * MAIN PROGRAM VARIABLES
 
